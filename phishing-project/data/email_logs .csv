@@ -1,0 +1,6 @@
+,,,,,,,,
+timestamp,sender_email,sender_domain,recipient,subject,verdict,spf,dkim,dmarc
+,,,,,,,,
+"2025-04-01 09:12,it-support@micros0ft-help.com,micros0ft-help.com,mjackson@SRecords.com,Password Expiration Notice,Delivered,Fail,Fail,Fail",,,,,,,,
+"2025-04-01 09:12,it-support@micros0ft-help.com,micros0ft-help.com,whouston@SRecords.com,Password Expiration Notice,Delivered,Fail,Fail,Fail",,,,,,,,
+"2025-04-01 09:13,it-support@micros0ft-help.com,micros0ft-help.com,bmarley@SRecords.com,Password Expiration Notice,Delivered,Fail,Fail,Fail",,,,,,,,
